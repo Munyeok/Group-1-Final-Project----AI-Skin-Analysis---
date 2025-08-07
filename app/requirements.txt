@@ -1,0 +1,37 @@
+# PyTorch Nightly 버전 (CUDA 12.8 지원)
+torch==2.8.0.dev20250319+cu128
+torchvision
+torchaudio
+
+# 컴퓨터 비전 관련 필수 라이브러리
+opencv-python
+opencv-contrib-python
+Pillow
+scikit-image
+albumentations
+imgaug
+
+# 데이터 처리 및 분석
+numpy
+pandas
+
+# 시각화
+matplotlib
+seaborn
+
+# 머신러닝 및 유틸리티
+scikit-learn
+tqdm
+
+# 실험 관리(필요시)
+# tensorboard
+# wandb
+
+# COCO 데이터셋 작업 시 (필요시)
+# pycocotools
+
+# 기타 (필요시 프로젝트에 따라 추가)
+# timm
+# ultralytics
+# transformers
+# mlflow
